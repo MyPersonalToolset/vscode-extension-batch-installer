@@ -1,7 +1,9 @@
 vscode-icons-team.vscode-icons
 github.github-vscode-theme
-eamodio.gitlens
 esbenp.prettier-vscode
 streetsidesoftware.code-spell-checker
 stackbreak.comment-divider
 gruntfuggly.todo-tree
+bradlc.vscode-tailwindcss
+formulahendry.auto-rename-tag
+formulahendry.auto-close-tag
